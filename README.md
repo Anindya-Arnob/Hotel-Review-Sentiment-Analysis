@@ -110,7 +110,7 @@ with early stopping preventing overfitting.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/hotel-sentiment-bigru-attention
+git clone https://github.com/Anindya-Arnob/hotel-sentiment-bigru-attention
 cd hotel-sentiment-bigru-attention
 
 # 2. Install dependencies
